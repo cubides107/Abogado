@@ -1,2 +1,2 @@
 # Abogado
-Tesis de grado abogado by Anny
+Software para abogados
